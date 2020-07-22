@@ -4,8 +4,7 @@ from sklearn import datasets
 from sklearn.ensemble import RandomForestClassifier
 
 st.write("""
-# Simple Iris Flower Prediction App
-This app predicts the **Iris flower** type!
+# Neural Network Customized for Bot detection
 """)
 
 st.sidebar.header('User Input Parameters')
